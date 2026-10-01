@@ -1,11 +1,14 @@
 # Tilt Sort
 
-Privacy policy and support pages for **Tilt Sort: Marble Color Jam**, a tilt-and-sort puzzle game by Gicklatt.
+Bilingual launch website for **Tilt Sort: Marble Color Jam**, by Gicklatt.
 
-[Website](https://gicklatt.github.io/tiltsort/) · [Privacy policy](https://gicklatt.github.io/tiltsort/privacy/) · [Support](https://gicklatt.github.io/tiltsort/support/)
+[Website](https://gicklatt.github.io/tiltsort/) · [Privacy](https://gicklatt.github.io/tiltsort/privacy/) · [Support](https://gicklatt.github.io/tiltsort/support/)
 
-Plain HTML and CSS, hosted on GitHub Pages; no build step. The pages are generated from the same
-strings the game shows in Settings → About, and the fonts (Paytone One and Nunito, SIL Open Font
-License 1.1, see `assets/fonts/`) are served from this site, so the pages make no third-party requests.
+Static HTML/CSS with a small English/Turkish toggle. GitHub Pages serves `main` from the repository root; no build step. Fonts and gameplay media are hosted locally. The trailer uses real gameplay and original game audio.
 
-Questions: [gicklatt@gmail.com](mailto:gicklatt@gmail.com)
+The launch page deliberately says **Coming soon** until store releases are confirmed. Update the launch copy and add verified store URLs when the game is publicly available.
+
+Fonts: Paytone One and Nunito, SIL Open Font License (see `assets/fonts/`).
+Graphics created by Penzilla Design.
+
+Contact: [gicklatt@gmail.com](mailto:gicklatt@gmail.com).
